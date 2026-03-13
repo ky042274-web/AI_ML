@@ -1,4 +1,4 @@
-Matplotlib 
+matplotlib 
 pandas
 numpy
-Scikit learn
+scikit learn
